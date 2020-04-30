@@ -47,7 +47,7 @@ class App extends Component{
   refresh1=()=>{
     this.setState({
       count:0,
-      arr:[255,255,255]
+      arr:[255,255,255,1]
     })
   }
   render(){
