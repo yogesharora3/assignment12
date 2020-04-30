@@ -1,0 +1,16 @@
+.plus{
+    height: 40px;
+    width:120px;
+}
+.refresh{
+    height: 40px;
+    width:60px;
+}
+.minus{
+    height: 40px;
+    width:120px;
+}
+.main{
+    margin-top: 2px;
+    text-align: center;
+}
